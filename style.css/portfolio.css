@@ -203,3 +203,16 @@ margin-bottom: 10px;
     text-align: center;
     margin-top: 50px;
 }
+
+/*footer style*/
+footer{
+    display: flex;
+    color: var(--Dark-02, #474747);
+font-family: Open Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 175% */
+padding: 130px 200px;
+background: #FFF8F3;
+}
